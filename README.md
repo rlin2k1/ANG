@@ -1,2 +1,2 @@
-# ANG
-Assisting Northrop Grumman
+# ANGbot
+Assisting Northrop Grumman Chatbot
