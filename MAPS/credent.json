@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "emerald-caster-182108",
+  "private_key_id": "cfbfbbffe06ee7d4dc2bf46d0fc7754766aacbc9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCCZn3luxraIdhZ\n/rw1RrCRe8WyPgjqIuQoNYk8OgISr+wMk2Rpdx/cFIUGwzNLLwjQcgquPMWiWOHg\nAxDALabxYj9ijcThGX+AZ9+396lHK0XqGQHF8sDf8SSsl6nJUiV7ZTEVx1yHQK/r\nSN9Q1ZMytbjjKXAvi4/dKsbdldRADizzSN4a7zx7i9pUPDit+0+fzdL4J37Ahusn\ni9LhkWyjq/r250DKzzrkFv6Q8Ogvb4sq+BtkaoTdc0Djr5FWYSAfy+lMkAdocVfz\nTtR37+7aUzfit1bzcZ0T6/wZeey/p4Db97WeepeeQ7FkUaqYzF/sQXmE3OKhVoON\n1GJXT1E5AgMBAAECggEANO79AUIcKtsdU57z8J6C83Ouc2X6QW0rd+UPkeqsR8Cx\nDgPQ+Xz5amHMBEw96LGtnswEaOlTgs0Y19H2vURq5cavm0aYWpX6q3m/F5NJ3JGE\n3nwLO7sIr39Yl1Uzf31AqOARdllIxsCsCNM6j7o6+BVLea8rEqnRGwMP2ghFskBa\niawdw/c/tF6ON8rabCqNLOXNphuNOuQDhBIPANMyDCArJ6FBxAJnjTO+c5hY9b8u\n/nadAndSXVpQHr6bqCzBHVSI4oNbddLsCS47jfuuXFWHB0JlRpcEucE2paZeCJoW\nLaFMn0dLqWC7eY6zBNSap/YqsU0bOpAgluCEN9RCPwKBgQC3ABOobndSW/d/WX+M\nkAbmdMGnFbp/qauIbg6g1V9MdOle74Y//YfjGImHX4HW2B+kXxyEmEmyZKUPFEia\n5OFnBJ20SVbHTE0Ua6xWH8aEiCFD4KRlRrDPSXoCafj9YB4wtZoY4WI+uJ+UryX4\nABm9YnPmop3tYYOmZ28xlWeBOwKBgQC2au2o9Dh7+FhKAGFNRQ6k4gU2tMcyf+bg\nS+FAqnDUPcUJWvaejPLb6kGPPLksHtHzh9o6SbKas4lViMON3DAMYYp6XRVxu6GH\npM73w0GjLCIcTQCrhliCTVqy4KblLF7ufai4dg94hoaMKm11hm67VyVBU3qyLn6S\nUD+kMuMQGwKBgEX6dIny/BP1cRY0vi6dINZdjXP8Ph31Xs/D7joYfeG5z0frZjXw\nGFeCGY03u2nRqX/skvYtWfkqvWefxQfeQEdpn3jClrmNdug5KGSisAIcIERZkePc\nfV425b4okfsqF0FfIHclMLF1Xii4NVe5ih4+mL14L9YHdRVb9kxKqpLjAoGBAIe7\nMHNSpOS5eRg3CC9yft74vmBiSwWsXaHvU//F0oZaH85CPNbkkaBIwddOm4nUtOu7\n3gkY5ShvBnT6emeHusi7m0pJELe7oQlI/CcmxiQfppHgSetW32y1GhOXTReg2FIk\ndfIrBn/ruRl6SE/2Y1ZKFZJyBw2lwtAjnfcTVhiZAoGBALPeyrxNuZHQ4+wg+jmk\nhNt06e17U7EnLeuH9ZCedSic/wO/QGpM98zas3M4X6sUpyFRE4QTue7iNCgjVwUy\nfNpH6P+DAtamn/hAHJos+3L7f6OnuDiSxu+b8W8Ue1pEcTHTVd3PPJ+BZEqQtU6W\nNOqwcvTjk99GUfmDVsryCkf8\n-----END PRIVATE KEY-----\n",
+  "client_email": "angbot@emerald-caster-182108.iam.gserviceaccount.com",
+  "client_id": "115946230616751486322",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/angbot%40emerald-caster-182108.iam.gserviceaccount.com"
+}

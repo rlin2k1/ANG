@@ -1,0 +1,117 @@
+{
+  "context": {
+    "name": "@sys-person"
+  },
+  "output": {
+    "generic": [
+      {
+        "title": "These are all the employees at Northrop Grumman that match your name:",
+        "options": [
+          {
+            "label": "Example Option Name",
+            "value": {
+              "input": {
+                "text": "Option Redirect Target"
+              }
+            }
+          }
+        ],
+        "preference": "button",
+        "description": "Please click the name of the person you want to find:",
+        "response_type": "option"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "name": "people_finder",
+      "type": "client",
+      "parameters": {
+        "person_name": "$name"
+      },
+      "result_variable": "context.result"
+    }
+  ]
+}
+
+
+
+
+{
+  "context": {
+    "name": "<?input.text?>"
+  },
+  "output": {
+    "generic": [
+      {
+        "title": "These are all the employees at Northrop Grumman that match your name:",
+        "options": [
+          {
+            "label": "Example Option Name",
+            "value": {
+              "input": {
+                "text": "Option Redirect Target"
+              }
+            }
+          }
+        ],
+        "description": "Please click the name of the person you want to find:",
+        "response_type": "option",
+        "preference":"button"
+      }
+    ]
+  },
+  "actions": [
+    {
+      "name": "people_finder",
+      "type": "client",
+      "parameters": {
+        "person_name": "$name"
+      },
+      "result_variable": "context.result"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+{
+  "output": {
+    "generic": [
+      {
+        "title": "TITLE!!!!",
+        "description": "DESCRIPTION!!!",
+        "options": [],
+        "response_type": "option"
+      }
+    ]
+  }
+}
+
+
+
+
+{
+  position: relative;
+  border-radius: 1.5625rem;
+  font-size: 1rem;
+  color: #B5B5B5;
+  letter-spacing: 0.015rem;
+  line-height: 1.3125rem;
+  margin: 0.3125rem;
+  padding: 0 1.25rem;
+  position: relative;
+  border-radius: 1.5625rem;
+  font-size: 1rem;
+  color: #B5B5B5;
+  letter-spacing: 0.015rem;
+  line-height: 1.3125rem;
+}
